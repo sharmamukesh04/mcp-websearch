@@ -1,1 +1,1 @@
-# map-websearch
+# mcp-websearch
