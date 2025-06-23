@@ -1,0 +1,16 @@
+{
+    "mcpServers": {
+      "puppeteer": {
+        "command": "server-puppeteer",
+        "args": [],
+        "env": {
+          "PUPPETEER_HEADLESS": "false"
+        }
+      },
+      "duckduckgo-search": {
+        "command": "duckduckgo-mcp-server",
+        "args": []
+      }
+    }
+  }
+  
